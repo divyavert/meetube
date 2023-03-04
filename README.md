@@ -8,5 +8,4 @@ Search Result
 ![Screenshot 2023-03-04 102112](https://user-images.githubusercontent.com/86241333/222876473-ec5a787d-a9ec-4ff0-acff-e5769dbe9616.png)
 video player
 
-![Screenshot 2023-03-04 102112](https://user-images.githubusercontent.com/86241333/222876517-c094cc60-458a-4c9a-9dc7-c1f84f29ff41.png)
-
+![Screenshot 2023-03-04 102404](https://user-images.githubusercontent.com/86241333/222876573-ec29f108-80af-4a9a-8156-a9275ae66937.png)
